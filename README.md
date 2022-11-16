@@ -8,7 +8,7 @@
 <h4 align="center"><a href=http://relogio-digital-cyan.vercel.app/>Clique para visitar o projeto</a></h4>
 ## 🎯 Objetivo
 
-O projeto consiste em desenvolver um relógio digital dinâmico, com reponsividade para Desktop e Mobile, que altere automaticamente seu Background de acordo com a hora do dia.
+O projeto consiste em desenvolver um relógio digital dinâmico, com responsividade para Desktop e Mobile, que altere automaticamente seu Background de acordo com a hora do dia.
 
 ## 05:00 às 6:59 - 🌄
 ## 07:00 às 15:59 - ☀️
