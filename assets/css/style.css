@@ -8,7 +8,7 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(130deg, #1100ffd8, #c701f8da);
+    background: linear-gradient(130deg, #f9bf19, #fc641b);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -60,6 +60,11 @@ footer .last {
     align-items: center;
     justify-content: center;
     color: white;
+}
+
+footer .last > a {
+    text-decoration: none;
+    color:#fff;
 }
 
 @media (max-width: 576px) {
